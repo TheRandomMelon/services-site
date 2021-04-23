@@ -25,7 +25,7 @@
 		<div class="col">
 			<div class="xl:flex-row flex-col flex w-full">
 				<img class="home-point-img" src="@/assets/img/ytvideo.jpg" />
-				<div class="xl:m-10 mt-8">
+				<div class="2xl:m-10 2xl:ml-12 xl:m-14 mt-8">
 					<h1 class="home-header-name ml-0-pls mb-2">It’s not just a video, it’s a story.</h1>
 					<h2 class="home-point-desc mb-2">
 						When you truly want to tell a story to your audience, you need the right
@@ -39,7 +39,7 @@
 		<div class="col xl:mt-32 mt-24">
 			<div class="xl:flex-row flex-col flex w-full">
 				<img class="xl:hidden block home-point-img" src="@/assets/img/script.png" />
-				<div class="xl:m-10 mt-8 xl:ml-0">
+				<div class="2xl:m-10 xl:m-14 mt-8 2xl:ml-0 xl:ml-0">
 					<h1 class="home-header-name ml-0-pls mb-2">From script to show.</h1>
 					<h2 class="home-point-desc mb-2">
 						You want your video done right, the way you imagined it. That’s why I’ll
@@ -54,7 +54,7 @@
 		<div class="col xl:mt-32 mt-24">
 			<div class="xl:flex-row flex-col flex w-full">
 				<img class="home-point-img" src="@/assets/img/captions.png" />
-				<div class="xl:m-10 xl:mt-6 mt-8">
+				<div class="2xl:m-10 2xl:ml-12 xl:m-14 mt-8">
 					<h1 class="home-header-name ml-0-pls mb-2">Be accessible to all.</h1>
 					<h2 class="home-point-desc mb-2">
 						If you would like your video to be viewable even by DHH people, you can
