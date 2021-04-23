@@ -5,6 +5,13 @@ body {
 	font-family: 'Inter', sans-serif;
 }
 
+.loading {
+	width: 100vw;
+	height: 100vh;
+	background: white;
+	display: block;
+}
+
 .home-header, .home-footer {
 	background: #88AD3A;
 	color: white;
@@ -137,6 +144,7 @@ h2 {
 .google-form-iframe {
 	filter: drop-shadow(0px 12px 20px rgba(0, 0, 0, 0.5));
 	height: 600px;
+	@apply bg-gray-100;
 }
 
 /* Lower font sizes on smaller devices */

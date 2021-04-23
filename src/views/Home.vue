@@ -73,7 +73,7 @@
 			<h2 class="home-point-desc mb-4">Would you like to order one of my services? If so, fill out the form below:</h2>
 
 			<h2 class="text-lg text-gray-200 mb-12">If you would prefer to fill out the form on a new page, click <a class="font-medium text-white" target="_blank" rel="noreferrer noopener" href="https://docs.google.com/forms/d/e/1FAIpQLSd3QjK9K24ejWHZldKyootDyCur6jWlZ4ACz7KB-hM8td7aCA/viewform?usp=pp_url&entry.644349022=The+e-mail+address+provided+on+the+form">here</a>.</h2>
-			<iframe class="google-form-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSd3QjK9K24ejWHZldKyootDyCur6jWlZ4ACz7KB-hM8td7aCA/viewform?usp=pp_url&entry.644349022=The+e-mail+address+provided+on+the+form"></iframe>
+			<iframe class="google-form-iframe" frameborder="0" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSd3QjK9K24ejWHZldKyootDyCur6jWlZ4ACz7KB-hM8td7aCA/viewform?embedded=true">Loading...</iframe>
 		</div>
 		<div class="home-copyright">
 			<p>
