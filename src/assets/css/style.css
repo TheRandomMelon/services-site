@@ -208,6 +208,42 @@ h2 {
 	}
 }
 
+/* For smaller laptop screens */
+@media only screen and (min-width: 1280px) and (max-width: 1599px) {
+	.home-header-logo {
+		width: 44px;
+		height: 44px;
+	}
+
+	.home-header-name {
+		font-size: 34px;
+		margin-left: 18px;
+	}
+
+	.home-header-title {
+		font-size: 42px;
+		margin-bottom: 12px;
+	}
+
+	.home-header-subtitle {
+		font-size: 32px;
+		line-height: 43px;
+	}
+
+	.home-header-scroll {
+		font-size: 20px;
+	}
+
+	.home-point-desc {
+		font-size: 1.35rem;
+		line-height: 32px;
+	}
+
+	.home-point-footnote {
+		font-size: 14px;
+	}
+}
+
 /* Special breakpoint for the YouTube iframe */
 @media only screen and (min-width: 1660px) {
 	.home-header-iframe {
